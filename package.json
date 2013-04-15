@@ -10,6 +10,7 @@
     "test": "node test.js"
   },
   "dependencies": {
-    "request": "~2.16.0"
+    "request": "~2.16.0",
+    "cheerio": "~0.10.0"
   }
 }
