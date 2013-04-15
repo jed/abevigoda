@@ -1,0 +1,11 @@
+{
+  "name": "abevigoda",
+  "version": "0.0.0",
+  "description": "Abe Vigoda as a Service",
+  "main": "index.js",
+  "author": "Jed Schmidt <where@jed.is>",
+  "license": "BSD",
+  "scripts": {
+    "test": "node test.js"
+  }
+}
